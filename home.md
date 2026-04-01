@@ -2,7 +2,7 @@
 title: Pyragogy Handbook — AI Edition
 description: A living handbook produced through human–AI collaboration.
 published: true
-date: 2026-04-01T16:06:51.103Z
+date: 2026-04-01T17:50:44.185Z
 tags: pyragogy, handbook, ai-edition, living-document
 editor: markdown
 dateCreated: 2026-04-01T15:51:35.188Z
@@ -36,7 +36,7 @@ The backstage where drafts, debate, and co-editing happen is intentionally separ
 
 - [About this Edition](./about-this-edition.md)
 - [Part I — The Shift](/handbook/part-i/the-shift)
-- Part II — Core Concepts
+- [Part II — Core Concepts](/handbook/part-ii)
 - Part III — Protocols and Practices
 - Part IV — Cases and Experiments
 - Part V — Infrastructure
