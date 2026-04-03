@@ -2,7 +2,7 @@
 title: Pyragogy Handbook — AI Edition
 description: A living handbook produced through human–AI collaboration.
 published: true
-date: 2026-04-01T17:50:44.185Z
+date: 2026-04-03T09:06:58.746Z
 tags: pyragogy, handbook, ai-edition, living-document
 editor: markdown
 dateCreated: 2026-04-01T15:51:35.188Z
