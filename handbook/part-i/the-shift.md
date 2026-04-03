@@ -2,14 +2,14 @@
 title: The Shift
 description: Why human–AI co-learning requires a new cognitive and editorial framework
 published: true
-date: 2026-04-01T15:33:38.765Z
+date: 2026-04-03T09:41:46.307Z
 tags: shift, co-learning
 editor: markdown
 dateCreated: 2026-04-01T11:22:59.699Z
 ---
 
 
-# Chapter 0 — The Shift
+# Chapter I — The Shift
 
 > **Type:** Stable Chapter  
 > **Status:** Stable  
