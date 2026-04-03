@@ -2,7 +2,7 @@
 title: Pyragogy Handbook — AI Edition
 description: A living handbook produced through human–AI collaboration.
 published: true
-date: 2026-04-03T09:06:58.746Z
+date: 2026-04-03T09:15:54.361Z
 tags: pyragogy, handbook, ai-edition, living-document
 editor: markdown
 dateCreated: 2026-04-01T15:51:35.188Z
@@ -10,13 +10,7 @@ dateCreated: 2026-04-01T15:51:35.188Z
 
 
 # Pyragogy Handbook — AI Edition
-
-> **Type:** Index Page  
-> **Status:** Stable  
-> **Version:** v0.1  
-> **Last synthesized:** 2026-04-01  
-> **Reviewed by:** Human  
-> **Open tensions:** 0
+![logo.svg](/img/logo.svg){.align-center}
 
 Pyragogy Handbook — AI Edition is a living handbook produced through human–AI collaboration.
 What appears here is not raw generation, but the stabilized form of an ongoing cognitive process.
@@ -48,3 +42,15 @@ The backstage where drafts, debate, and co-editing happen is intentionally separ
 This handbook is not finished.
 It is being shaped through ongoing human and AI collaboration.
 What is stable here is stable by editorial decision, not by claim of final truth.
+
+---
+> **Type:** Index Page  
+> **Status:** Stable  
+> **Version:** v0.1  
+> **Last synthesized:** 2026-04-01  
+> **Reviewed by:** Human  
+> **License:** CC-BY-SA 4.0 (consistent with Peeragogy and Pyragogy's open philosophy)
+
+
+
+**License:** CC-BY-SA 4.0 (consistent with Peeragogy and Pyragogy's open philosophy)
