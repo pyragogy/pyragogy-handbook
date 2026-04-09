@@ -2,7 +2,7 @@
 title: Obliqo
 description: Obliqo is a cognitive friction engine for critical writing. A Pyragogy experiment that challenges AI automation to restore centrality to human thought.
 published: true
-date: 2026-04-09T06:42:22.837Z
+date: 2026-04-09T06:53:58.185Z
 tags: cognitive friction, critical writing, ai ethics, open pedagogy, human-ai collaboration, metacognition
 editor: markdown
 dateCreated: 2026-04-09T06:29:55.054Z
